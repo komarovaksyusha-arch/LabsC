@@ -1,0 +1,9 @@
+Tree state: 
+Tree state: 
+Tree state: 
+Searched for Sophia
+Printed birthday plan
+Printed tree (preorder)
+Printed tree (inorder)
+Printed tree (postorder)
+Printed tree (levelorder)
