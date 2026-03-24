@@ -1,0 +1,14 @@
+C:\Users\xenkom\projects\lab7_3\app3\bin\Debug\net10.0-windows\app3.exe
+C:\Users\xenkom\projects\lab7_3\app3\bin\Debug\net10.0-windows\app3.deps.json
+C:\Users\xenkom\projects\lab7_3\app3\bin\Debug\net10.0-windows\app3.runtimeconfig.json
+C:\Users\xenkom\projects\lab7_3\app3\bin\Debug\net10.0-windows\app3.dll
+C:\Users\xenkom\projects\lab7_3\app3\bin\Debug\net10.0-windows\app3.pdb
+C:\Users\xenkom\projects\lab7_3\app3\obj\Debug\net10.0-windows\app3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xenkom\projects\lab7_3\app3\obj\Debug\net10.0-windows\app3.AssemblyInfoInputs.cache
+C:\Users\xenkom\projects\lab7_3\app3\obj\Debug\net10.0-windows\app3.AssemblyInfo.cs
+C:\Users\xenkom\projects\lab7_3\app3\obj\Debug\net10.0-windows\app3.csproj.CoreCompileInputs.cache
+C:\Users\xenkom\projects\lab7_3\app3\obj\Debug\net10.0-windows\app3.dll
+C:\Users\xenkom\projects\lab7_3\app3\obj\Debug\net10.0-windows\refint\app3.dll
+C:\Users\xenkom\projects\lab7_3\app3\obj\Debug\net10.0-windows\app3.pdb
+C:\Users\xenkom\projects\lab7_3\app3\obj\Debug\net10.0-windows\app3.genruntimeconfig.cache
+C:\Users\xenkom\projects\lab7_3\app3\obj\Debug\net10.0-windows\ref\app3.dll

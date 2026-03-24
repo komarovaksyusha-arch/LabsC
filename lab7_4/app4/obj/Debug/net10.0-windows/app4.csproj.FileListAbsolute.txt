@@ -1,0 +1,14 @@
+C:\Users\xenkom\projects\lab7_4\app4\bin\Debug\net10.0-windows\app4.exe
+C:\Users\xenkom\projects\lab7_4\app4\bin\Debug\net10.0-windows\app4.deps.json
+C:\Users\xenkom\projects\lab7_4\app4\bin\Debug\net10.0-windows\app4.runtimeconfig.json
+C:\Users\xenkom\projects\lab7_4\app4\bin\Debug\net10.0-windows\app4.dll
+C:\Users\xenkom\projects\lab7_4\app4\bin\Debug\net10.0-windows\app4.pdb
+C:\Users\xenkom\projects\lab7_4\app4\obj\Debug\net10.0-windows\app4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xenkom\projects\lab7_4\app4\obj\Debug\net10.0-windows\app4.AssemblyInfoInputs.cache
+C:\Users\xenkom\projects\lab7_4\app4\obj\Debug\net10.0-windows\app4.AssemblyInfo.cs
+C:\Users\xenkom\projects\lab7_4\app4\obj\Debug\net10.0-windows\app4.csproj.CoreCompileInputs.cache
+C:\Users\xenkom\projects\lab7_4\app4\obj\Debug\net10.0-windows\app4.dll
+C:\Users\xenkom\projects\lab7_4\app4\obj\Debug\net10.0-windows\refint\app4.dll
+C:\Users\xenkom\projects\lab7_4\app4\obj\Debug\net10.0-windows\app4.pdb
+C:\Users\xenkom\projects\lab7_4\app4\obj\Debug\net10.0-windows\app4.genruntimeconfig.cache
+C:\Users\xenkom\projects\lab7_4\app4\obj\Debug\net10.0-windows\ref\app4.dll
